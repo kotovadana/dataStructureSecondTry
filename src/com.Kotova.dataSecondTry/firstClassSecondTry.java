@@ -20,4 +20,7 @@ public class firstClassSecondTry {
 
     //doing some changes in Second Branch
     private String lalalaChanges
+
+            //second changes
+    private String lalalaChangesSecondOne
 }
