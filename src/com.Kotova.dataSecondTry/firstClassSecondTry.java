@@ -17,4 +17,7 @@ public class firstClassSecondTry {
     }
 
     //Nu davaj ewe cheto napiwem
+
+    //some changes in local master
+    private String lololoMaster
 }
