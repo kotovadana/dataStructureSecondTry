@@ -15,4 +15,6 @@ public class firstClassSecondTry {
     public void setSecondTry(String secondTry) {
         SecondTry = secondTry;
     }
+
+    //Nu davaj ewe cheto napiwem
 }
