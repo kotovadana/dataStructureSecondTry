@@ -1,10 +1,10 @@
 package com.Kotova.dataSecondTry;
 
-public class firstClassSecondTry {
+public class FirstClassSecondTry {
 
     private String SecondTry;
 
-    public firstClassSecondTry() {
+    public FirstClassSecondTry() {
 
     }
 
@@ -19,8 +19,8 @@ public class firstClassSecondTry {
     //Nu davaj ewe cheto napiwem
 
     //doing some changes in Second Branch
-    private String lalalaChanges
+    private String lalalaChanges;
 
             //second changes
-    private String lalalaChangesSecondOne
+    private String lalalaChangesSecondOne;
 }
